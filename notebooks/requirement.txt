@@ -8,4 +8,4 @@ opencv-python
 scikit-learn
 google-colab
 ipython>=7.18.1
-prompt-toolkit.formatted_text
+prompt-toolkit-2.0.5
