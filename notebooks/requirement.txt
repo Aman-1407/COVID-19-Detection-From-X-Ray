@@ -7,3 +7,4 @@ imutils
 opencv-python
 scikit-learn
 google-colab
+prompt-toolkit<2.0.0,>=1.0.15
