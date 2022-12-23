@@ -9,3 +9,4 @@ scikit-learn
 google-colab
 ipython>=7.18.1
 prompt-toolkit>=2.0.5
+IPython.utils.traitlets
