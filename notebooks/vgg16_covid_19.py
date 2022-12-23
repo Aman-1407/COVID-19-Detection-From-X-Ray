@@ -45,7 +45,7 @@ from sklearn.preprocessing import LabelBinarizer
 from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
 
-!pip install seaborn
+#!pip install seaborn
 
 from google.colab import drive
 drive.mount('/content/drive')
@@ -252,10 +252,10 @@ from sklearn.metrics import confusion_matrix
 
 confusion_matrix(y_test, )
 
-!pip unistall seaborn numpy
-!pip install mkl numpy seaborn
+#!pip unistall seaborn numpy
+#!pip install mkl numpy seaborn
 
-!pip install tensorflow keras --upgrade
+#!pip install tensorflow keras --upgrade
 
 import seaborn as sns
 from sklearn.metrics import confusion_matrix
