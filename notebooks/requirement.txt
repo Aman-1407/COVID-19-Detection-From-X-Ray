@@ -318,7 +318,7 @@ rpy2==3.5.6
 rsa==4.9
 scikit-image==0.18.3
 scikit-learn==1.0.2
-scipy==1.7.3
+scipy==1.9.3
 screen-resolution-extra==0.0.0
 scs==3.2.2
 seaborn==0.11.2
