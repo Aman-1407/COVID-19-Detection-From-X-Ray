@@ -11,7 +11,7 @@ arviz==0.12.1
 astor==0.8.1
 astropy==4.3.1
 astunparse==1.6.3
-async-timeout==4.0.2g
+async-timeout==4.0.2
 atari-py==0.2.9
 atomicwrites==1.4.1
 attrs==22.1.0
