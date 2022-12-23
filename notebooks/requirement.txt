@@ -6,3 +6,4 @@ seaborn
 imutils
 opencv-python
 scikit-learn
+google-colab
