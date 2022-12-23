@@ -2,3 +2,4 @@ jupyter
 keras
 Pillow
 tensorflow
+seaborn
