@@ -5,4 +5,4 @@ tensorflow
 seaborn
 imutils
 opencv-python
-scikit-learn scipy matplotlib
+-U scikit-learn scipy matplotlib
