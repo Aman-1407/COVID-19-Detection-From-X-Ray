@@ -89,7 +89,6 @@ fastrlock
 feather-format
 filelock
 firebase-admin
-fix-yahoo-finance
 Flask
 flatbuffers
 folium
